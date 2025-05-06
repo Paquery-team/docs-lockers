@@ -2,7 +2,7 @@
 
 # 
 
-![][image1]\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+![][image0]\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [**OBJETIVO**](#objetivo)	**[2](#objetivo)**
 
@@ -653,7 +653,7 @@ Esta consulta es más que nada para los reportes individuales que se le hacen a 
 
 
 
-[image1]: <./Images/Support/support0.png>
+[image0]: <./Images/Support/support0.png>
 
 [image1]: <./Images/Support/support1.png>
 
