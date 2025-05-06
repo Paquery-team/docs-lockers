@@ -5,7 +5,7 @@
   El sistema está diseñado bajo una arquitectura modular basada en microservicios, desplegada en Google Cloud Platform (GCP) utilizando **Google Kubernetes Engine (GKE)** como entorno principal de ejecución. Esta infraestructura permite escalar de forma eficiente, mantener un despliegue continuo (CI/CD) y garantizar alta disponibilidad.
   
 ### 1.2. Diagrama de arquitectura 
-  ![Diagrama de Arquitectura](./diagrama.png)  
+  ![Diagrama de Arquitectura](./Images/GCPUp/diagrama.png)  
 
 ### 1.3. Arquitectura General
 
